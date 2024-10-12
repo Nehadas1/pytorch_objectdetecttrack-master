@@ -1,0 +1,4 @@
+wget.exe
+config/yolov3.weights
+__pycache__
+.ipynb_chechpoints
